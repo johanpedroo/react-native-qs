@@ -1,6 +1,6 @@
 import theme from './variables';
 import {TransparentButtonStyle} from '../assets/button.style';
-import merge from "assign-deep";
+import merge from "lodash/merge";
 
 console.log(TransparentButtonStyle);
 

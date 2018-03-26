@@ -1,5 +1,5 @@
 import theme from './variables';
-import merge from 'assign-deep';
+import merge from "lodash/merge";
 
 const ButtonStyle = {
     buttonStyle: {

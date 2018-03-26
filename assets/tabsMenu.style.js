@@ -1,6 +1,6 @@
-import theme from './variables'
-import tabStyle from './tab.style'
-import merge from "assign-deep";
+import theme from './variables';
+import tabStyle from './tab.style';
+import merge from "lodash/merge";
 
 export default {
 	container:{

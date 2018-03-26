@@ -1,4 +1,4 @@
-import merge from "assign-deep";
+import merge from "lodash/merge";
 
 const input = {
 	inputStyle: {
